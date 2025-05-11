@@ -1,0 +1,16 @@
+{
+    "RED_REGION_IDS_INPUT_FILE": "simulation_results/aifm1_red_ids.txt",
+    "RED_REGION_THRESHOLD_USED_BY_01": 0.5,
+    "SPECIES_ID": "9606",
+    "STRING_API_URL": "https://string-db.org/api",
+    "STRING_MAPPING_ENDPOINT": "/tsv/get_string_ids",
+    "BATCH_SIZE": 100,
+    "MAX_RETRIES": 5,
+    "RETRY_DELAY": 7,
+    "GO_ENRICHMENT_LIBRARY": "GO_Biological_Process_2023",
+    "TOP_N_ENRICHMENT_TERMS": 15,
+    "ANALYSIS_DIR_BASE": "biological_analysis_results",
+    "OUTPUT_DIR_ANALYSIS": "biological_analysis_results/Analysis_aifm1_red_ids",
+    "TARGET_NODE_ID": "9606.ENSP00000287295",
+    "TARGET_NODE_NAME": "TargetProtein"
+}

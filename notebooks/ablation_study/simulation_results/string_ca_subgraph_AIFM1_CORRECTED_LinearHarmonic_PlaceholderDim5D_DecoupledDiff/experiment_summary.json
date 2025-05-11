@@ -1,0 +1,16 @@
+{
+  "final_step": 500,
+  "termination_reason": "max_steps_reached",
+  "final_variance_activation": 1.3762967770290375,
+  "final_entropy_activation": 1.9758076374331728,
+  "final_entropy_inhibition": 0.9137056258876434,
+  "final_clustering_fraction_5d": 0.25932691104716626,
+  "final_average_pheromones": 0.0,
+  "experiment_name": "string_ca_subgraph_AIFM1_CORRECTED_LinearHarmonic_PlaceholderDim5D_DecoupledDiff",
+  "sim_type": "harmonic_placeholder_5d_decoupled",
+  "graph_nodes": 2334,
+  "graph_edges": 79930,
+  "final_average_placeholder_w": -5.6823467026468985e-05,
+  "final_average_placeholder_x": -1.2135466123663202e-05,
+  "final_average_placeholder_y": -3.331122390204946e-05
+}

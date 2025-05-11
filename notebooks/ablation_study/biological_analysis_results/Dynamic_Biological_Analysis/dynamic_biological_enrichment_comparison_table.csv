@@ -1,0 +1,8 @@
+,Dynamic Region Size,Mapped Genes,Significant Terms,Top Term,Top Term Adj P,Dynamic Metric Threshold,time_avg_abs_change (Avg in Region),Jaccard vs Degree,Jaccard vs RWR
+H+3D-PH (Coupled),467,,2512,Translation (GO:0006412),9.45e-110,1.3235,N/A,0.1571,0.1206
+H+4D-Bio (AIFM1),467,,2700,Translation (GO:0006412),3.11e-130,1.2444,N/A,0.1715,0.1183
+H+5D-PH (Coupled),467,,2589,Translation (GO:0006412),2.82e-123,1.3174,N/A,0.1763,0.1250
+H+5D-PH (Decoupled),467,,2703,Translation (GO:0006412),4.57e-108,1.3328,N/A,0.1739,0.1096
+H+P (2D Ref),467,,2612,Translation (GO:0006412),1.96e-116,1.3313,N/A,0.1643,0.1139
+H-Only (2D),467,,2560,Translation (GO:0006412),2.10e-111,1.3217,N/A,0.1691,0.0988
+P-Only (2D),467,,2544,Translation (GO:0006412),8.17e-19,0.0007,N/A,0.0385,0.0442

@@ -1,0 +1,5 @@
+{
+    "device_type": "cuda",
+    "device_name": "NVIDIA GeForce RTX 2060",
+    "torch_device_str": "cuda:0"
+}

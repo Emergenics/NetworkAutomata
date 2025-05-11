@@ -1,0 +1,11 @@
+{
+    "DYNAMIC_WINDOW_FRACTION": 0.2,
+    "DYNAMIC_METRIC_NAME": "Time-Avg Abs Change (|Act_t+1-Act_t|, |Inh_t+1-Inh_t|)",
+    "DYNAMIC_METRIC_KEY": "time_avg_abs_change",
+    "DYNAMIC_THRESHOLD_TYPE": "percentile",
+    "DYNAMIC_THRESHOLD_VALUE": 80,
+    "OUTPUT_DIR_DYNAMIC_ANALYSIS": "biological_analysis_results/Dynamic_Analysis_Across_Runs",
+    "TARGET_NODE_ID": "9606.ENSP00000287295",
+    "TARGET_NODE_NAME": "TargetProtein",
+    "MASTER_SEED": 42
+}

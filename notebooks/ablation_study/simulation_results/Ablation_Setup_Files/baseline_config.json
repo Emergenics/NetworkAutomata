@@ -1,0 +1,63 @@
+{
+    "MASTER_SEED": 42,
+    "DATASET_NAME": "STRING",
+    "EXPERIMENT_NAME": "string_ca_subgraph_AIFM1_CORRECTED",
+    "TARGET_NODE_ID": "9606.ENSP00000287295",
+    "SUBGRAPH_RADIUS": 2,
+    "STATE_DIM": 2,
+    "ACT_IDX": 0,
+    "INH_IDX": 1,
+    "PLACEHOLDER_W_IDX": 2,
+    "PLACEHOLDER_X_IDX": 3,
+    "PLACEHOLDER_Y_IDX": 4,
+    "INIT_MODE": "seeds",
+    "SEED_ACTIVATION_VALUE": [
+        1.0,
+        0.0
+    ],
+    "DEFAULT_INACTIVE_STATE": [
+        0.0,
+        0.0
+    ],
+    "MAX_SIMULATION_STEPS": 500,
+    "CONVERGENCE_THRESHOLD": 0.0001,
+    "NODES_TO_PLOT_COUNT": 10,
+    "SNAPSHOT_STEPS": [
+        0,
+        50,
+        100,
+        250,
+        499
+    ],
+    "rule_params": {
+        "activation_threshold": 0.5,
+        "activation_increase_rate": 0.15,
+        "activation_decay_rate": 0.05,
+        "inhibition_threshold": 0.5,
+        "inhibition_increase_rate": 0.1,
+        "inhibition_decay_rate": 0.1,
+        "inhibition_feedback_threshold": 0.6,
+        "inhibition_feedback_strength": 0.3,
+        "diffusion_factor": 0.05,
+        "noise_level": 0.001,
+        "harmonic_factor": 0.05,
+        "pheromone_increase_rate": 0.02,
+        "pheromone_multiplicative_decay_rate": 0.99,
+        "w_decay_rate": 0.0,
+        "x_decay_rate": 0.0,
+        "y_decay_rate": 0.0,
+        "placeholder_decay_rate": 0.0,
+        "refractory_threshold": 1.1,
+        "additional_decay_factor": 0.0,
+        "use_dynamic_weights": false,
+        "potentiation_threshold": 1.1,
+        "potentiation_increase_rate": 0.0,
+        "potentiation_decay_rate": 1.0,
+        "max_potentiation": 0.0,
+        "use_confidence_weight": true
+    },
+    "DATA_ROOT_DIR": "/tmp/cakg_data",
+    "OUTPUT_DIR": "simulation_results",
+    "ANALYSIS_DIR": "biological_analysis_results",
+    "SETUP_OUTPUT_DIR": "simulation_results/Ablation_Setup_Files"
+}

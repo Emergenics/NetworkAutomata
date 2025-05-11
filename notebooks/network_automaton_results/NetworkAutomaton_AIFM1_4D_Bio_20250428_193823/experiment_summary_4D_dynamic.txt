@@ -1,0 +1,15 @@
+Experiment: NetworkAutomaton_AIFM1_4D_Bio_20250428_193823
+Target: AIFM1 (9606.ENSP00000287295)
+Model: 4D Biological State [Act, Inh, Cargo, Loc]
+Graph Nodes: 781
+Graph Edges: 24263
+Termination: max_steps_reached at step 500
+Final Metrics (Snapshot at T=500): VarAct=0.0008, EntAct=0.0629
+Final State Summary: CargoBound=0.1%, LocCounts={'LOC_GOLGI': 36, 'LOC_EE': 15, 'LOC_LE': 17, 'LOC_LY': 713}
+Dynamic Region Definition: time_avg_magnitude > 0.500 (percentile 80)
+Dynamic Region Nodes: 156
+GO Enrichment Terms (Dynamic Region): 1162
+Top GO Term (Dynamic Region): Translation (GO:0006412) (AdjP=2.93e-17)
+Dynamic Region vs Baselines (Jaccard):
+  - Degree: 0.0122
+  - RWR: 0.1103

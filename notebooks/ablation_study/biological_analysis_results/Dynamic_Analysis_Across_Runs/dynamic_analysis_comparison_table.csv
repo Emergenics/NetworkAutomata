@@ -1,0 +1,8 @@
+,Final Step,Term Reason,Variance (Act),Entropy (Act),Entropy (Inh),Clustering (2d),Clustering (3d),Clustering (5d),Avg pheromones,Avg placeholder_w,Avg placeholder_x,Avg placeholder_y,Dynamic Region Size,Dynamic Metric Threshold,time_avg_abs_change (Avg in Region),Jaccard vs Degree,Jaccard vs RWR
+H+3D-PH (Coupled),500.0,max_steps_reached,1.4141,1.9445,0.9494,N/A,0.2642,N/A,0.0000,0.0001,N/A,N/A,467,1.3235,1.4456,0.1571,0.1206
+H+4D-Bio (AIFM1),,N/A (Sim Summary Missing),N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,467,1.2444,1.3820,0.1715,0.1183
+H+5D-PH (Coupled),500.0,max_steps_reached,1.3682,1.9762,0.9174,N/A,N/A,0.2514,0.0000,-0.0000,0.0000,0.0000,467,1.3174,1.4448,0.1763,0.1250
+H+5D-PH (Decoupled),500.0,max_steps_reached,1.3763,1.9758,0.9137,N/A,N/A,0.2593,0.0000,-0.0001,-0.0000,-0.0000,467,1.3328,1.4463,0.1739,0.1096
+H+P (2D Ref),500.0,max_steps_reached,1.3921,1.9774,0.9090,0.2560,N/A,N/A,0.9962,N/A,N/A,N/A,467,1.3313,1.4521,0.1643,0.1139
+H-Only (2D),500.0,max_steps_reached,1.3798,1.9802,0.9375,0.2624,N/A,N/A,0.0000,N/A,N/A,N/A,467,1.3217,1.4488,0.1691,0.0988
+P-Only (2D),500.0,max_steps_reached,0.0005,0.0473,0.6931,0.9998,N/A,N/A,1.0000,N/A,N/A,N/A,467,0.0007,0.0008,0.0385,0.0442

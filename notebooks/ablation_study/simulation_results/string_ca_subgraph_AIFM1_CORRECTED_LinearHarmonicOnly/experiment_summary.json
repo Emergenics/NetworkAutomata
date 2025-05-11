@@ -1,0 +1,13 @@
+{
+  "final_step": 500,
+  "termination_reason": "max_steps_reached",
+  "final_variance_activation": 1.3798279125336868,
+  "final_entropy_activation": 1.980235362595304,
+  "final_entropy_inhibition": 0.9375333457784683,
+  "final_clustering_fraction_2d": 0.26241711497560366,
+  "final_average_pheromones": 0.0,
+  "experiment_name": "string_ca_subgraph_AIFM1_CORRECTED_LinearHarmonicOnly",
+  "sim_type": "harmonic_pheromone",
+  "graph_nodes": 2334,
+  "graph_edges": 79930
+}

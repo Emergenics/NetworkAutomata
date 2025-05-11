@@ -1,0 +1,16 @@
+{
+    "INPUT_DIR_DYNAMIC_REGIONS": "biological_analysis_results/Dynamic_Analysis_Across_Runs",
+    "SPECIES_ID": "9606",
+    "STRING_API_URL": "https://string-db.org/api",
+    "STRING_MAPPING_ENDPOINT": "/tsv/get_string_ids",
+    "BATCH_SIZE": 100,
+    "MAX_RETRIES": 5,
+    "RETRY_DELAY": 7,
+    "GO_ENRICHMENT_LIBRARY": "GO_Biological_Process_2023",
+    "TOP_N_ENRICHMENT_TERMS": 15,
+    "ANALYSIS_DIR_BASE": "biological_analysis_results",
+    "OUTPUT_DIR_DYNAMIC_BIO_ANALYSIS": "biological_analysis_results/Dynamic_Biological_Analysis",
+    "TARGET_NODE_ID": "9606.ENSP00000287295",
+    "TARGET_NODE_NAME": "TargetProtein",
+    "MASTER_SEED": 42
+}
